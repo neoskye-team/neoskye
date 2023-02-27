@@ -1,0 +1,95 @@
+11:51:47.057 | V |                      | ArgumentsFromParametersFile.OnBuildCreated (150)
+11:51:47.124 | V |                      | Passing value for <unresolved> (Neoskye.sln)
+11:51:47.140 | V |                      | InjectParameterValues.OnBuildCreated (100)
+11:51:47.164 | V |                      | HandleShellCompletion.OnBuildCreated (75)
+11:51:47.327 | V |                      | GenerateBuildServerConfigurations.OnBuildCreated (50)
+11:51:47.328 | V |                      | InvokeBuildServerConfigurationGeneration.OnBuildCreated (45)
+11:51:47.345 | V |                      | UpdateNotification.OnBuildCreated (10)
+11:51:47.345 | V |                      | UnsetVisualStudioEnvironmentVariables.OnBuildCreated (0)
+11:51:47.346 | V |                      | HandleVisualStudioDebugging.OnBuildCreated (0)
+11:51:47.348 | V |                      | HandleSingleFileExecution.OnBuildCreated (-50)
+11:51:47.348 | V |                      | EventInvoker.OnBuildCreated (-3.4028235E+38)
+11:51:47.401 | V |                      | HandleHelpRequests.OnBuildInitialized (5)
+11:51:47.401 | V |                      | Telemetry.OnBuildInitialized (0)
+11:51:50.230 | V |                      | Sending BuildStarted telemetry event ...
+11:51:50.237 | V |                      |   build_components         = 
+11:51:50.237 | V |                      |   build_type               = Project
+11:51:50.237 | V |                      |   compile_time             = 11
+11:51:50.237 | V |                      |   config_generators        = 
+11:51:50.237 | V |                      |   host                     = VSCode
+11:51:50.237 | V |                      |   num_custom_components    = 0
+11:51:50.237 | V |                      |   num_custom_extensions    = 0
+11:51:50.237 | V |                      |   num_partitioned_targets  = 0
+11:51:50.237 | V |                      |   num_secrets              = 0
+11:51:50.237 | V |                      |   num_targets              = 3
+11:51:50.237 | V |                      |   os_architecture          = X64
+11:51:50.237 | V |                      |   os_platform              = Windows
+11:51:50.237 | V |                      |   repo_branch              = main
+11:51:50.237 | V |                      |   repo_commit              = c94ab7
+11:51:50.237 | V |                      |   repo_provider            = GitHub
+11:51:50.237 | V |                      |   repo_url                 = b89e29
+11:51:50.237 | V |                      |   target_framework         = .NETCoreApp,Version=v6.0
+11:51:50.237 | V |                      |   version_dotnet_sdk       = 7.0.103
+11:51:50.237 | V |                      |   version_nuke_common      = 6.3.0
+11:51:50.237 | V |                      |   version_nuke_global_tool = 6.3.0
+11:51:50.554 | V |                      | InjectNonParameterValues.OnBuildInitialized (-100)
+11:51:50.555 | V |                      | EventInvoker.OnBuildInitialized (-3.4028235E+38)
+11:51:50.575 | V | Restore              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+11:51:50.577 | V | Restore              | Telemetry.OnTargetSucceeded (0)
+11:51:50.831 | V | Restore              | Sending TargetSucceeded telemetry event ...
+11:51:50.831 | V | Restore              |   build_components         = 
+11:51:50.831 | V | Restore              |   build_type               = Project
+11:51:50.831 | V | Restore              |   compile_time             = 12
+11:51:50.831 | V | Restore              |   config_generators        = 
+11:51:50.831 | V | Restore              |   host                     = VSCode
+11:51:50.831 | V | Restore              |   num_custom_components    = 0
+11:51:50.831 | V | Restore              |   num_custom_extensions    = 0
+11:51:50.831 | V | Restore              |   num_partitioned_targets  = 0
+11:51:50.831 | V | Restore              |   num_secrets              = 0
+11:51:50.831 | V | Restore              |   num_targets              = 3
+11:51:50.831 | V | Restore              |   os_architecture          = X64
+11:51:50.831 | V | Restore              |   os_platform              = Windows
+11:51:50.831 | V | Restore              |   repo_branch              = main
+11:51:50.831 | V | Restore              |   repo_commit              = c94ab7
+11:51:50.831 | V | Restore              |   repo_provider            = GitHub
+11:51:50.831 | V | Restore              |   repo_url                 = b89e29
+11:51:50.831 | V | Restore              |   target_current_partition = 1
+11:51:50.831 | V | Restore              |   target_duration          = 0
+11:51:50.831 | V | Restore              |   target_framework         = .NETCoreApp,Version=v6.0
+11:51:50.831 | V | Restore              |   target_name              = Restore
+11:51:50.831 | V | Restore              |   target_total_partitions  = 1
+11:51:50.831 | V | Restore              |   version_dotnet_sdk       = 7.0.103
+11:51:50.831 | V | Restore              |   version_nuke_common      = 6.3.0
+11:51:50.831 | V | Restore              |   version_nuke_global_tool = 6.3.0
+11:51:50.860 | V | Restore              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+11:51:50.866 | V | Compile              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+11:51:50.867 | V | Compile              | Telemetry.OnTargetSucceeded (0)
+11:51:51.072 | V | Compile              | Sending TargetSucceeded telemetry event ...
+11:51:51.072 | V | Compile              |   build_components         = 
+11:51:51.072 | V | Compile              |   build_type               = Project
+11:51:51.072 | V | Compile              |   compile_time             = 12
+11:51:51.072 | V | Compile              |   config_generators        = 
+11:51:51.072 | V | Compile              |   host                     = VSCode
+11:51:51.072 | V | Compile              |   num_custom_components    = 0
+11:51:51.072 | V | Compile              |   num_custom_extensions    = 0
+11:51:51.072 | V | Compile              |   num_partitioned_targets  = 0
+11:51:51.072 | V | Compile              |   num_secrets              = 0
+11:51:51.072 | V | Compile              |   num_targets              = 3
+11:51:51.072 | V | Compile              |   os_architecture          = X64
+11:51:51.072 | V | Compile              |   os_platform              = Windows
+11:51:51.072 | V | Compile              |   repo_branch              = main
+11:51:51.072 | V | Compile              |   repo_commit              = c94ab7
+11:51:51.072 | V | Compile              |   repo_provider            = GitHub
+11:51:51.072 | V | Compile              |   repo_url                 = b89e29
+11:51:51.072 | V | Compile              |   target_current_partition = 1
+11:51:51.072 | V | Compile              |   target_duration          = 0
+11:51:51.072 | V | Compile              |   target_framework         = .NETCoreApp,Version=v6.0
+11:51:51.072 | V | Compile              |   target_name              = Compile
+11:51:51.072 | V | Compile              |   target_total_partitions  = 1
+11:51:51.072 | V | Compile              |   version_dotnet_sdk       = 7.0.103
+11:51:51.072 | V | Compile              |   version_nuke_common      = 6.3.0
+11:51:51.072 | V | Compile              |   version_nuke_global_tool = 6.3.0
+11:51:51.105 | V | Compile              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+11:51:51.181 | V |                      | UpdateNotification.OnBuildFinished (10)
+11:51:51.181 | V |                      | SerializeBuildServerState.OnBuildFinished (0)
+11:51:51.182 | V |                      | EventInvoker.OnBuildFinished (-3.4028235E+38)

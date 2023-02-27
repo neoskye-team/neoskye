@@ -8,4 +8,3 @@ Welcome to the main neoskye repo! Here's how to get started:
 - Install [Nuke](https://nuke.build/): `dotnet tool install Nuke.GlobalTool --global`
 - *Recursively* clone this repo: `git clone --recursive https://github.com/neoskye-team/neoskye.git`
 - Try to build everything: `nuke`
-

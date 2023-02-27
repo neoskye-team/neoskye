@@ -1,0 +1,6 @@
+# cfg files
+/.vscode
+
+# build artifacts
+bin/
+obj/
