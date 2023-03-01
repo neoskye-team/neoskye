@@ -5,4 +5,6 @@
 bin/
 obj/
 
+# misc
 /test
+/.nuke/temp
