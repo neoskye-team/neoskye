@@ -4,3 +4,5 @@
 # build artifacts
 bin/
 obj/
+
+/test
